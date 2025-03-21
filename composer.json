@@ -1,0 +1,18 @@
+{
+    "name": "martin/task4",
+    "autoload": {
+        "psr-4": {
+            "Martin\\Task4\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Martin Karadzinov",
+            "email": "martin@pingdevs.com"
+        }
+    ],
+    "require": {
+        "illuminate/collections": "^12.3",
+        "larapack/dd": "^1.1"
+    }
+}
